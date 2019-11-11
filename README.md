@@ -5,10 +5,10 @@ We used droplet-based single-cell RNA sequencing (scRNA-seq) and graph-based phe
 
 # To run this Jupyter notebook:
 Navigate to directory of choice, then:
-` git clone https://github.com/dpeerlab/lung-development-cancer-progression.git `
-` cd lung-development-cancer-progression `
-` wget -P ./data/ https://s3.amazonaws.com/dp-lab-data-public/lung-development-cancer-progression/PATIENT_LUNG_ADENOCARCINOMA_ANNOTATED.h5 `
-` wget -P ./data/ https://s3.amazonaws.com/dp-lab-data-public/lung-development-cancer-progression/MOUSE_LUNG_ADENOCARCINOMA_METASTASIS_ANNOTATED.h5 `
-` pip install -r requirements.txt `
+``` git clone https://github.com/dpeerlab/lung-development-cancer-progression.git 
+cd lung-development-cancer-progression 
+wget -P ./data/ https://s3.amazonaws.com/dp-lab-data-public/lung-development-cancer-progression/PATIENT_LUNG_ADENOCARCINOMA_ANNOTATED.h5 
+wget -P ./data/ https://s3.amazonaws.com/dp-lab-data-public/lung-development-cancer-progression/MOUSE_LUNG_ADENOCARCINOMA_METASTASIS_ANNOTATED.h5 
+pip install -r requirements.txt ```
 
 Then run the notebook with ` jupyter notebook NMED2019_Laughney_SCanalyses_edit.ipynb ` .
