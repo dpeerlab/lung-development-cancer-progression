@@ -1,4 +1,3 @@
-Cython
 numpy
 seaborn
 h5py
