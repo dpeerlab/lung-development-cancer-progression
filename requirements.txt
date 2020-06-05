@@ -2,5 +2,5 @@ numpy
 seaborn
 h5py
 colors.py
-git+https://github.com/dpeerlab/seqc.git
 cmocean
+git+https://github.com/dpeerlab/seqc.git
